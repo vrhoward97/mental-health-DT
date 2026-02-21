@@ -2,7 +2,7 @@
 Test build for youth/young adult mental health access digital twin/agentic AI 
 Youth & Young Adult Mental Health Access Digital Twin (NYC)
 Overview
-This project implements a scenario-based digital twin of outpatient mental health service access for youth and young adults (ages 12–25) in New York City. The model is designed to explore how provider capacity constraints, workforce shortages, and policy interventions influence wait times and unmet demand across NYC boroughs.
+This project implements a scenario-based digital twin of outpatient mental health service access for youth and young adults (ages 12–18) in New York City. The model is designed to explore how provider capacity constraints, workforce shortages, and policy interventions influence wait times and unmet demand across NYC boroughs.
 This is a systems-level simulation, not a clinical or predictive model.
 ________________________________________
 Objectives
@@ -12,8 +12,8 @@ Objectives
 •	Illustrate tradeoffs faced by public health decision-makers
 ________________________________________
 Scope
-•	Population: Youth and young adults (ages 12–25)
-•	Geography: NYC boroughs (Manhattan, Bronx, Brooklyn, Queens, Staten Island)
+•	Population: Youth and young adults (ages 12–18)
+•	Geography: NYC boroughs/counties (Manhattan (New York County), Bronx (Bronx County), Brooklyn (King County), Queens (Queens County), Staten Island (Richmond County)
 •	Care Types: Outpatient therapy and psychiatry
 •	Time Horizon: Weekly simulation over a fixed period
 ________________________________________
@@ -46,7 +46,7 @@ Results should be interpreted as directional insights, not forecasts.
 ________________________________________
 Tools
 •	Python
-•	Cursor (AI-assisted development)
+•	VS Code (AI-assisted development)
 •	Basic data visualization libraries
 ________________________________________
 3️⃣ Exact Cursor prompts (copy-paste, in order)
